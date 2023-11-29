@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quadrato (24.1)", "quadrato (24.1)\quadrato (24.1).csproj", "{DC0F5B5F-03DF-477D-A86D-F74588D1DC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0F5B5F-03DF-477D-A86D-F74588D1DC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0F5B5F-03DF-477D-A86D-F74588D1DC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0F5B5F-03DF-477D-A86D-F74588D1DC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0F5B5F-03DF-477D-A86D-F74588D1DC22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C52918-2A3C-41A3-91F0-F5C50637249B}
+	EndGlobalSection
+EndGlobal
